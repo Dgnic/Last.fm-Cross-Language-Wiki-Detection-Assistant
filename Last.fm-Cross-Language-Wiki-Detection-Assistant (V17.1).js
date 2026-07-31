@@ -9,6 +9,7 @@
 // @grant        GM_xmlhttpRequest
 // @connect      www.last.fm
 // @run-at       document-idle
+// @license MIT
 // ==/UserScript==
 
 (function() {
